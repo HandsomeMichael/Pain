@@ -1,0 +1,15 @@
+A mod that improve terraria by making tree a solid tile
+making the game more easier
+
+Changelog :
+
+v.0.2.1 
+- tree are no longer stay solid when unloading the mod
+- removed cactus support
+
+v.0.2
+- added icon
+- now support cactus
+
+v.0.1 
+- released

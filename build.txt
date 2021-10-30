@@ -1,0 +1,3 @@
+displayName = Solid tree
+author = Neko the cat'nt
+version = 0.2.1
